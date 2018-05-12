@@ -1,0 +1,37 @@
+_repo: Het-Stoomhuis--De-Waanzinnige-der-Nerbudda--2-2-_38449
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: Translation of La maison à vapeur (v. 2).
+gutenberg_issued: '2011-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38449'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Mutiny -- India -- Fiction'
+title: 'Het Stoomhuis: De Waanzinnige der Nerbudda (2/2)'
+url: http://www.gutenberg.org/ebooks/38449
